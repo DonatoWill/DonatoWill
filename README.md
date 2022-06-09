@@ -1,4 +1,4 @@
-# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Olá!
 
 Sou Donato, um desenvolvedor tentando resolver todos os problemas possíveis. Atualmente estou mais focado em tecnologias back-end como Java e Kotlin, criando serviços escaláveis na núvem. Porém tento sempre aprender um pouco de outras áreas relacionadas à Web. Acredito que a tecnologia pode nos trazer novas perspectivas e soluções.
 
